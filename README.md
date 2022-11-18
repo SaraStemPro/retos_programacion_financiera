@@ -20,5 +20,5 @@ Escribe un programa en Python que nos pregunte una cantidad a invertir, el inter
 Plus: Si el dato ingresado no es un número, debes rescatar el error para que el programa no se detenga.
 
 
-[Ver el enunciado y la solución](reto1)
+[Ver la solución](reto1)
 
