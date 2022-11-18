@@ -8,6 +8,8 @@ Enlaces de interés:
 
 - [Comunidad en Discord](https://discord.gg/k2xaJbRNCy)
 
+- [Soluciones en directo en Twitch](https://www.twitch.tv/sarastemtrading)
+
 - [Más info sobre los retos](https://sarastem.com/retos)
 
 - [Puedes proponer tu reto aquí](mailto:retos@sarastem.com)
@@ -18,5 +20,5 @@ Escribe un programa en Python que nos pregunte una cantidad a invertir, el inter
 Plus: Si el dato ingresado no es un número, debes rescatar el error para que el programa no se detenga.
 
 
-[Ver el reto y la solución](reto#1)
+[Ver el reto y la solución](readme.md)
 
