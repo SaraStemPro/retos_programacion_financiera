@@ -22,3 +22,11 @@ Plus: Si el dato ingresado no es un número, debes rescatar el error para que el
 
 [Ver la solución al Reto #1](reto1)
 
+## RETO #2
+Una pescadería vende pescado fresco a 4,30€/kg. El pescado que no es del día tiene un descuento del 60%. Escribe un programa que pregunte cuántos kg de pescado fresco y no fresco compra una persona y te devuelva el coste total que tiene que pagar. Redondea el resultado a 2 decimales.
+
+Plus: Hazlo con una función.
+
+
+[Ver la solución al Reto #2](reto2)
+
