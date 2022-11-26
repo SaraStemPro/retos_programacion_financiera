@@ -30,3 +30,13 @@ Plus: Hazlo con una función.
 
 [Ver la solución al Reto #2](reto2)
 
+## RETO #3
+Escribe un programa que guarde en un diccionario los precios de las frutas de la tabla, pregunte al usuario por una fruta, un número de kilos y muestre por pantalla el precio total.
+
+Plus: ¿Qué hacemos si se introduce una fruta que no está en la tabla?
+
+
+[Ver la solución al Reto #3](reto3)
+
+
+
